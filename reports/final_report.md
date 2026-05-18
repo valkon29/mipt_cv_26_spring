@@ -34,8 +34,8 @@ $$f: I_{input} \rightarrow I_{enhanced}$$
 ├── 01_baseline_implementation.ipynb   # Классические методы
 ├── 02_static_lut.ipynb                # Статический LUT
 ├── 03_adaptive_lut.ipynb              # Custom CNN + LUT
-├── 05_mobilenet_lut.ipynb             # MobileNetV2 + LUT
-├── 06_metrics_comparison.ipynb        # Сводное сравнение всех методов
+├── 04_mobilenet_lut.ipynb             # MobileNetV2 + LUT
+├── 05_metrics_comparison.ipynb        # Сводное сравнение всех методов
 ├── data_analysis.ipynb                # анализ датасета
 ├── mit_adobe_5k_dataset/              # Датасет
 ├── baseline_results/                  # Результаты классических методов
