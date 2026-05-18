@@ -19,3 +19,8 @@ gradio>=3.0.0
 streamlit>=1.25.0
 wandb>=0.15.0
 tensorboard>=2.13.0
+
+# Dependencies for baseline metrics
+lpips>=0.1.4
+pytorch-fid>=0.3.0
+psutil>=5.8.0

@@ -1,0 +1,8 @@
+Method,PSNR Rank,SSIM Rank,Delta E Rank,Speed Rank,Avg Rank
+Static LUT,2,2,1,1,1.5
+Adaptive LUT,1,1,2,2,1.5
+MobileNetV2+LUT,4,3,3,3,3.25
+Gamma,3,4,4,4,3.75
+Histogram,5,5,6,6,5.5
+CLAHE,6,6,5,5,5.5
+Combined,7,7,7,7,7.0
